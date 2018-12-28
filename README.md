@@ -1,1 +1,1 @@
-# TranslatorBot
+# Translator-Bot
